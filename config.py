@@ -1,0 +1,5 @@
+MONGO_URI = "mongodb://localhost:27017"
+DB_NAME = "weather_db"
+CITY_COLLECTION = "city_coordinates"
+WEATHER_COLLECTION = "city_weather_hourly"
+CHECKPOINT_COLLECTION = "pipeline_checkpoint"
